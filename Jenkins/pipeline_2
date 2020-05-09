@@ -1,5 +1,5 @@
 node {
-  git 'https://github.com/linuxacademy/content-terraform-docker-service.git'
+  git 'https://github.com/gb8may/content-terraform-docker-service.git'
   if(action == 'Deploy') {
     stage('init') {
       sh label: 'terraform init', script: "terraform init"
