@@ -8,3 +8,4 @@ Need to create a key pair to use in this lab.
 ```
 $ ssh-keygen
 ```
+>*Keyname: Tfkey*
