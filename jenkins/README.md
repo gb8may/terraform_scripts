@@ -1,3 +1,5 @@
+![jenkins](https://user-images.githubusercontent.com/35708820/81996714-1a276580-9624-11ea-9e44-6d343656c62c.png)
+
 # Samples of pipeline script to use on Jenkins
 > *Need to use plugins of String and Choice Parameters to select the options on job.*
 
