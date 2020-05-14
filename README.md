@@ -4,13 +4,13 @@
 Scripts for Terraform.
 > *Scripts based in some [Linux Academy](https://linuxacademy.com/) courses*
 
-#### [Jenkins](#whatismarkdown)
+#### [Jenkins](https://github.com/gb8may/terraform_scripts/tree/master/jenkins)
 Using Jenkins with Terraform and other tools.
 
-#### [AWS](#whatismarkdown)
+#### [AWS](https://github.com/gb8may/terraform_scripts/tree/master/aws)
 Using Terraform to provision a inffrastructure on AWS.
 
-#### [Kubernetes](#whatismarkdown)
+#### [Kubernetes](https://github.com/gb8may/terraform_scripts/tree/master/kubernetes)
 Using Terraform to provision a inffrastructure on AWS.
 
 ###### Autor: *Mayara Gouveia*.
